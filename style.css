@@ -1,3 +1,7 @@
-<header>{
+.cabeçalho{
         backgrond-color#0000FF;
        color;#FFFFFF"}
+    .cabeçalho-imagem
+    {
+        width: 20px;
+    }
