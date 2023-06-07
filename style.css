@@ -2,7 +2,11 @@
     background-color: #424E61;
     color: white;
     display: flex;
+    justify-content: space-around;
 }
 .cabecalho-imagem{
     width: 20%;
 }
+    .cabeçalho-lista-item{
+        display: inline-block;
+    }
