@@ -2,7 +2,7 @@
     margin: 0%;
     padding: 0%;
 }
-.cabecalho {
+.cabeçalho {
     background-color: #424E61;
     color: white;
     display: flex;
@@ -11,7 +11,7 @@
     margin: 24px;
 }
 
-.cabecalho-imagem{
+.cabeçalho-imagem{
     width: 20%;
 }
 
